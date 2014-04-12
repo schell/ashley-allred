@@ -1,0 +1,7 @@
+[ ]bandcamp
+[ ]facebook
+[ ]photos
+[ ]bio
+[ ]epk
+[ ]contact
+[x]index
