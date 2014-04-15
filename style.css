@@ -80,3 +80,50 @@ body {
   }
 }
 
+html,body {
+  height:100%;
+  overflow-x:hidden;
+}
+#wrapper {
+  min-height:100%;
+}
+#main {
+  overflow:auto;
+  padding-bottom:562px;
+  font-family: 'Rufina', serif;
+  font-size:1.3em;
+}
+#main p {
+  border-left:solid #333 1px;
+  border-right:solid #333 1px;
+  padding:1em;
+}
+
+#main h1, #main h2, #main h3, #main h4 {
+  font-family: sans-serif;
+}
+body {
+  background:black;
+  color:#adadad;
+  padding:0px;
+  text-align:center;
+}
+.header {
+  border:none;
+}
+.footer {
+  position:relative;
+  margin:-562px auto 0px auto;
+  height:562px;
+  clear:both;
+  padding:0px;
+  border:none;
+}
+.container {
+  padding-top:20px;
+}
+#nav a {
+  font-weight:200;
+  color:#bbbbbb;
+}
+
