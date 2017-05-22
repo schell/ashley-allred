@@ -25,5 +25,7 @@ deploy:
   bucket: ashley-allred.com
   local-dir: build/site
   acl: public_read
+  region: us-west-1
+  skip_cleanup: true
   on:
     repo: schell/ashley-allred
