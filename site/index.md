@@ -1,4 +1,4 @@
 ---
-title: ASHLEY ALLRED
+title: ashley allred
 theme: templates/splash.html
 ---

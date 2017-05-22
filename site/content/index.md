@@ -1,5 +1,5 @@
 ---
-title: ASHLEY ALLRED
+title: ashley allred
 theme: templates/content.html
 ---
 <!-- TODO: make this all markup -->
