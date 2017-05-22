@@ -19,9 +19,9 @@ cache:
   - $HOME/.stack
 deploy:
   provider: s3
-  access_key_id: AKIAJA6NJX4EKRWECSHQ
+  access_key_id: AKIAJYFERLPRLHF6R2AQ
   secret_access_key:
-    secure: InKjQ0RtlWGF77h+Waxfat2gY+aRzEl/zSMIu89mAku6UFMZRZh28Nd84Vp2rfsz53y1lzQ7OfeNAAghaLRs1ArcA8i3haRq0Gmz9JFR8dUDgDwumFn9jPb7pZcQhgUtA3SPef4LncHOqPDRrEcN356a680cJH6UDGLc/OMxoxQ=
+    secure: LxBvukC/KXEmcN0S6Ma6aSQrft1BO0EbtdedPghVdo1tJSbVn+BNbYtRrXIrz4nrY7YxdrjQevukkh9sXFzq/YY4ZrmlFp1JCtP2cGRWjGInZdjc85BGVcGb/1ASUfL1Bmi0r8EFy3CNZY1RA3ITAd1MJzsq0q4DQU0uOBl6sOM=
   bucket: ashley-allred.com
   local-dir: build/site
   acl: public_read
