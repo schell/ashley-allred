@@ -88,7 +88,7 @@ html,body {
   min-height:100%;
 }
 #main {
-  overflow:auto;
+  overflow:hidden;
   padding-bottom:562px;
   font-family: 'Rufina', serif;
   font-size:1.3em;
