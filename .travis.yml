@@ -1,0 +1,30 @@
+sudo: false
+language: c
+addons:
+  apt:
+    packages:
+    - libgmp-dev
+before_install:
+- mkdir -p ~/.local/bin
+- export PATH=$HOME/.local/bin:$PATH
+- travis_retry curl -L https://www.stackage.org/stack/linux-x86_64 | tar xz --wildcards
+  --strip-components=1 -C ~/.local/bin '*/stack'
+script:
+- stack --no-terminal --install-ghc build --fast --only-dependencies
+- stack exec milkshake -- sitemap.yaml -c
+cache:
+  directories:
+  - $HOME/.ghc
+  - $HOME/.cabal
+  - $HOME/.stack
+deploy:
+  provider: s3
+  access_key_id: AKIAJA6NJX4EKRWECSHQ
+  secret_access_key:
+    secure: J72u5znJrvlI0Fh44FcqCA3ZjRtSM3R+z1FsfUaLDa6XCrSO4w9xgTKRxyhaJ2Pr7UH+0PZYbHrpDbOLHQF9OYYWasbtyFU+ePE3aNQ3C1MGZYpRSddGHXgMB9sIX6Qsa0hDyqmhrYSzZpXq+nR2db1AWnruanXxWG2AbbY0yGQ=
+  local-dir: build/site
+  acl: public_read
+  region: us-west-1
+  skip_cleanup: true
+  on:
+    repo: schell/ashley-allred

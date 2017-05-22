@@ -1,0 +1,57 @@
+---
+title: ASHLEY ALLRED
+theme: templates/content.html
+---
+<!-- TODO: make this all markup -->
+<a class="row" name="bio"></a>
+<div class="row text-left">
+ <p>Swirling, ethereal layers hover at the fringes of the minimalist foundation of Ashley Allred’s voice, guitar and flute on All I Need, her 2014 solo debut. Born out of the final notes of the band she fronted, Odd Bird, All I Need is a note to forward movement while paying tribute to the magic of the recent past. Co-produced, mixed and engineered by Bay Area up-and-comer Paul Haile (Trebuchet, Not To Reason Why) and mastered by Jonathan Burnside (Jawbreaker, Melvins, Sleepy Jackson) the EP steps one foot firmly into the arena as a solo artist to remember.</p>
+ <a class="row" name="pics"></a>
+ <h3>Pics</h3>
+ <a title="open ashley allred pic" href="index.html#" data-featherlight="/img/thumbs/AshleyAllred_Dec2013_Still_001_1-L.jpg">
+   <img alt="ashley allred pic" class="img-rounded col-md-2" src="/img/thumbs/AshleyAllred_Dec2013_Still_001_1-Th.jpg" />
+ </a>
+ <a title="open ashley allred pic" href="index.html#" data-featherlight="/img/thumbs/AshleyAllred_Dec2013_MG_4608-L.jpg">
+   <img alt="ashley allred pic" class="img-rounded col-md-2" src="/img/thumbs/AshleyAllred_Dec2013_MG_4608-Th.jpg" />
+ </a>
+ <a title="open ashley allred pic" href="index.html#" data-featherlight="/img/thumbs/AshleyAllred_Dec2013_MG_4693_RT2-L.jpg">
+   <img alt="ashley allred pic" class="img-rounded col-md-2" src="/img/thumbs/AshleyAllred_Dec2013_MG_4693_RT2-Th.jpg" />
+ </a>
+ <a title="open ashley allred pic" href="index.html#" data-featherlight="/img/thumbs/AshleyAllred_Dec2013_MG_4620_RT-L.jpg">
+   <img alt="ashley allred pic" class="img-rounded col-md-2" src="/img/thumbs/AshleyAllred_Dec2013_MG_4620_RT-Th.jpg" />
+ </a>
+ <a title="open ashley allred pic" href="index.html#" data-featherlight="/img/thumbs/AshleyOwl_004-L.jpg">
+   <img alt="ashley allred pic" class="img-rounded col-md-2" src="/img/thumbs/AshleyOwl_004-Th.jpg" />
+ </a>
+ <a title="open ashley allred pic" href="index.html#" data-featherlight="/img/thumbs/AshleyOwl_002-L.jpg">
+   <img alt="ashley allred pic" class="img-rounded col-md-2" src="/img/thumbs/AshleyOwl_002-Th.jpg" />
+ </a>
+ <a class="row" name="videos"></a>
+ <h3>Videos</h3>
+ <iframe width="100%" height="400" src="http://www.youtube.com/embed/MB9qpFokf5A" frameborder="0" allowfullscreen></iframe>
+ <iframe width="100%" height="400" src="http://www.youtube.com/embed/sZRpw2KMxbM" frameborder="0" allowfullscreen></iframe>
+ <a class="row" name="lyrics"></a>
+ <h3>Lyrics</h3>
+ <div class="row">
+  <p><strong>Give It A Try</strong> / I'm not convinced as they witnessed / Had my eyes on the exits / And I know I belong somewhere / So I'll give it a try out there / I think of friends I never see / do they feel all the love from me ?/ So much to live and to see / don't keep me down when I want to be free / love, find a piece of mind / and then take care of your rare find
+  </p>
+  <p><strong>The Time</strong> / the time has come / not what we thought / but did we really want?/ so close for so long / same sun and sky still looks after us / turning dark to light / (chorus) oh no! fall in and fall out / in this life or past / in the now hope to last / we fall in and we fall out / come on so long / the shades are drawn wide open / we'll step outside separate this time / keep on keepin' on / and it will all be fine / (chorus) for now this is how it will be / separate from the rest, go on do your best / gave up but didn't give up on me wholeheartedly / be open and be free</p>
+  <p><strong>Into the Night</strong> / if you see her dancing with moon and sun / let her be until she's done / if you see her cryin in the water / know her grieving has just begun / she calls out into the night / where it's safe and sound / her voice carried in the wind / she is lost and never was found / the whole world is out of control / everyone's dancing on hot charcoal / we'll try and help because we believe in everyone / we can be pretty naive / we called out into the night / where it's safe and sound / our voices carried in the wind / we are bound and then we are found / why would this happen to us/ we were goin good for so long / but ya paddled out into the big body of blue/</p>
+  <p><strong>Let Go</strong> / gone away to a new place / where time still runs out / surroundings are different there / when hope runs out will you have some to spare / we'll sell our things that we do not ever need / give up our life of comfort and home / because what is right we'll never know / until we all just let go/ brothers and sisters call out to me/ I'll hear your voices ring out / and if you let go I'll be alright you'll see/ because what I know comes always goes/ it'll ride real high and come down/ if you wanna stay up it doesn't have to be rough / get away don't let yourself stay/ and when we go we'll already know / it won't always be easy on us / so hold your head upright/ and if it tilts down I'll pick it up/ you have me now for awhile anyhow / lay safe in my arms/ and for all of our good intent/ we'll be rewarded/ it may not be laid out clearly until we all just let go</p>
+  <p><strong>Gone Out</strong> / walk these streets in a broken down fit/ with nowhere to run/ the eclipse is round the sun / glory not saved while I'm gone all the day/ eyes as wild as my mane / garden dry /debts unpaid / my little light has gone out /  where do I turn to now?/ oh it's different inside now with nobody near / it's been awhile since you came around here / broken down things collected in the streets / washed out the kindness that once was in me/ the universe tests us / respond and reflect/ look beyond the black and white to figure out what's next/ a guiding light won't lead the way when you've gone astray / find the fire inside of you/ set your worries at bay</p>
+  <p><strong>Wild Flowers</strong> / got those cold feet running / may be gone by morning / if you leave a note to say goodbye / you'll surely miss the tears fall from my eyes/ I'll tell my friends I'm doing just fine but they all will know its a lie/ and when the end comes near / and the sun burns hot / we'll fade away into the sky/ in the western wind/ I'll go where the wild flowers go/ can't fit in anywhere else/ make a crown for my head / have rose petals for a bed / where people say I'm crazy / the flowers won't let it faze me/</p>
+  <p><strong>We soon shall know</strong> / taught to give hard every time/ with vision not always crystalline / left the town that was our own/ locked the door of my old home/ burn the sage to cleanse / all the curves that lie ahead / or we never are or are gonna be everything or anything/ I don't know very well which way I'm to go/ if someone there cast a shadow/ we soon shall know/ in a state of panic/ mercy is made/ or we never are or are gonna be everything or anything / when it's down to rest in the mountains of the west/ guided in by the stars above / ancestors giving us all a shove / thought we disappear / thought we'd give it a try / or we never are or are gonna be everything or anything / all is in the mind/ reach out to what's divine / or we never are or are gonna be everything or anything</p>
+ </div>
+ <a class="row" name="contact"></a>
+ <h3>Contact</h3>
+  <dl>
+   <!--<a name="bandcamp"></a>
+   <dt>bandcamp</dt>
+   <dd><a href="http://ashleyallred.bandcamp.com">http://ashleyallred.bandcamp.com/</a></dd>
+   -->
+   <dt>email</dt>
+   <dd><a title="email ashley allred music" href="mailto:ashleyallredmusic@gmail.com">ashleyallredmusic@gmail.com</a></dd>
+   <dt>facebook</dt>
+   <dd><a title="ashley allred at facebook" href="https://www.facebook.com/pages/Ashley-Allred/182037098663839">https://www.facebook.com/pages/Ashley-Allred/182037098663839</a></dd>
+  </dl>
+</div>
