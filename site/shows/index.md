@@ -2,6 +2,4 @@
 title: shows
 theme: templates/content.html
 ---
-* Show 1
-* Show 2
-* Show 3
+* April 21st - [The Star, Sebastopol](https://www.starsebastopol.com/live-shows) w/ TV Heads, THAT, Eagle Wolf Snake
